@@ -2,18 +2,17 @@
 
 """
 CONVERTRON3000
-11.04.2017
-by fieserWolF / Abyss-Connection
+25.05.2019
+by sonu 
 contact me:
-http://csdb.dk/scener/?id=3623
-wolf@abyss-connection.de
+http://sonu.chaurasia76@gmail.com
 """
 
 
 
 #to do
 ##########
-#https://github.com/justmao945/lab/tree/master/halftoning/ordered-dithering
+#https://github.com/sonu275981/image-convertor
 #ordered-dithering
 #the big problem is: you cannot specify a palette to map to!
 #so the results are not optimal... (to do)
