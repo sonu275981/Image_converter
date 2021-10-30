@@ -1,2 +1,2 @@
-# Python_basic
-Python_basic language tutorial
+# image converter
+Image converter based on Python Tkinter
